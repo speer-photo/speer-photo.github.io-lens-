@@ -1,37 +1,115 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Lens by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Lens by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading-0 is-loading-1 is-loading-2">
 
-You can use the [editor on GitHub](https://github.com/speer-photo/speer-photo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Main -->
+			<div id="main">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Header -->
+					<header id="header">
+						<h1>Lens</h1>
+						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+							<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
 
-### Markdown
+				<!-- Thumbnail -->
+					<section id="thumbnails">
+						<article>
+							<a class="thumbnail" href="images/fulls/01.jpg" data-position="left center"><img src="images/thumbs/01.jpg" alt="" /></a>
+							<h2>Diam tempus accumsan</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/02.jpg"><img src="images/thumbs/02.jpg" alt="" /></a>
+							<h2>Vivamus convallis libero</h2>
+							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center"><img src="images/thumbs/03.jpg" alt="" /></a>
+							<h2>Nec accumsan enim felis</h2>
+							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/04.jpg"><img src="images/thumbs/04.jpg" alt="" /></a>
+							<h2>Donec maximus nisi eget</h2>
+							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center"><img src="images/thumbs/05.jpg" alt="" /></a>
+							<h2>Nullam vitae nunc vulputate</h2>
+							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/06.jpg"><img src="images/thumbs/06.jpg" alt="" /></a>
+							<h2>Phasellus magna faucibus</h2>
+							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/07.jpg"><img src="images/thumbs/07.jpg" alt="" /></a>
+							<h2>Proin quis mauris</h2>
+							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/08.jpg"><img src="images/thumbs/08.jpg" alt="" /></a>
+							<h2>Gravida quis varius enim</h2>
+							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/09.jpg"><img src="images/thumbs/09.jpg" alt="" /></a>
+							<h2>Morbi eget vitae adipiscing</h2>
+							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/10.jpg"><img src="images/thumbs/10.jpg" alt="" /></a>
+							<h2>Habitant tristique senectus</h2>
+							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/11.jpg"><img src="images/thumbs/11.jpg" alt="" /></a>
+							<h2>Pharetra ex non faucibus</h2>
+							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/12.jpg"><img src="images/thumbs/12.jpg" alt="" /></a>
+							<h2>Mattis lorem sodales</h2>
+							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+						</article>
+					</section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+						</ul>
+					</footer>
 
-```markdown
-Syntax highlighted code block
+			</div>
 
-# Header 1
-## Header 2
-### Header 3
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/speer-photo/speer-photo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
